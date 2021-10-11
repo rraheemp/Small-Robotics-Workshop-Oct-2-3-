@@ -18,4 +18,5 @@ Below are the pinout and pin functions.
 
 ![ESP32-DOIT-DEVKIT-V1-Pinout-30-GPIOs](https://user-images.githubusercontent.com/89361408/135779665-d24b5a27-1845-4af0-a7a6-94c0e16f6f56.jpg)
 
-*Purchase Here* [Amazon](Amazon.com/esp32)
+*[Amazon](https://www.amazon.com/SongHe-Development-Dual-Mode-Bluetooth-Antenna/dp/B08246MCL5/ref=sr_1_1_sspa?dchild=1&keywords=esp32&qid=1633987282&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTVo4NU9JRjBKOURHJmVuY3J5cHRlZElkPUEwOTcwMTk3MUxGN1YyN1MwNUtXMiZlbmNyeXB0ZWRBZElkPUExMDA3MDA5MjFER0FEUVo3MDNWVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=#customerReviews)
+*
