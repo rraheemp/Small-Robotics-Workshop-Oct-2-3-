@@ -27,7 +27,62 @@ In this workshop, we introudced the Aduino IDE but focused heavily on Visual Stu
 *[Platformio](https://platformio.org/platformio-ide)*
 
 # Sample Code #
+.
+.
+.
+.
+.
+..
+.
+.
+.
+.
+.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+
+..
+.
+.
+.
+.
+.
+.
+
+.
+.
+.
+
+.
+.
+.
+.
+.
+.
+.
+.
 
 
 
