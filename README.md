@@ -7,11 +7,11 @@ The workshop hosted several students and focused on creating a small remote car 
 
 The following topics were also covered:
 
-## Small Robotics
-## Electricity
-## Electronics and Components
-## Software Development 
-## Debugging
+* Small Robotics
+* Electricity
+* Electronics and Components
+* Software Development 
+* Debugging
 
 
 ![ESP32-DOIT-DEVKIT-V1-Pinout-30-GPIOs](https://user-images.githubusercontent.com/89361408/135779665-d24b5a27-1845-4af0-a7a6-94c0e16f6f56.jpg)
