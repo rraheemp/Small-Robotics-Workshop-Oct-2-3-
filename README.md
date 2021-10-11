@@ -150,36 +150,6 @@ In this workshop, we introudced the Aduino IDE but focused heavily on Visual Stu
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+****
+# Small-Robotics-Workshop-Oct-2-3-
 Enjoy.
