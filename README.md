@@ -24,9 +24,9 @@ Below are the pinout and pin functions.
 
 In this workshop, we introudced the Aduino IDE but focused heavily on Visual Studio Code. Within Visual Studio Code, the following plugins/extensions were used.
 
-*[Platformio](https://platformio.org/platformio-ide)*
-*[Tabnine](https://www.tabnine.com/install/vscode)*
-*[Github](https://zeroesandones.medium.com/how-to-create-a-repository-on-github-and-clone-it-locally-using-vscode-91543517a455)*
+* [Platformio](https://platformio.org/platformio-ide) 
+* [Tabnine](https://www.tabnine.com/install/vscode) 
+* [Github](https://zeroesandones.medium.com/how-to-create-a-repository-on-github-and-clone-it-locally-using-vscode-91543517a455) 
 
 # Sample Code #
 
