@@ -13,7 +13,7 @@ The following topics were also covered:
 * Software Development 
 * Debugging
 
-The microcontroller of use was the Esressif Systems ESP32 Dev-Module.
+The microcontroller of use was the Espressif Systems ESP32 Dev-Module.
 Below are the pinout and pin functions.
 
 ![ESP32-DOIT-DEVKIT-V1-Pinout-30-GPIOs](https://user-images.githubusercontent.com/89361408/135779665-d24b5a27-1845-4af0-a7a6-94c0e16f6f56.jpg)
